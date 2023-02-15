@@ -1,1 +1,1 @@
-# graphql-schema
+# Сабмодуль для обмена между ui и composer
